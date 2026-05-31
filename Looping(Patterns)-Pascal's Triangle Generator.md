@@ -46,3 +46,7 @@ for i in range(num_rows):
 ```
 ## Sample Output
 <img width="274" height="297" alt="image" src="https://github.com/user-attachments/assets/54031d41-c4f3-42b3-828e-aaa54bc5a91a" />
+
+## Result
+Thus, the program has been successfully executed
+
